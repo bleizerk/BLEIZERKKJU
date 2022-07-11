@@ -1,0 +1,175 @@
+#EXTM3U
+
+#EXTINF:-1, ATV+ Perú
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+
+#EXTINF:-1, ATV Perú
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+#EXTINF:-1, America Tv Internacional
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657450046/ei/3lnKYuq4GoybobIP5Y-Q-Ag/ip/2001%3A1388%3A49e7%3Ad081%3A591b%3A6ae3%3Aecee%3A9fe5/id/zcWXboTnous.1/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/pe/spc/lT-Khkls5c9xVnniKOXha3MjD8HZ5AE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUuSteHTZYt210OSRlGLMnN9frp2-ySiHgJG_TZSDC7ECIQCk0pUiN1UvVWS06ahNCwHL2QNZw6dX_cSXFDaOCbLyCA%3D%3D/file/index.m3u8
+
+#EXTINF:-1, Tv Color 
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, BestCable Perú
+https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, PANAMERICANA TV
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 ,24 TV Culturales (Peru)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+
+#EXTINF:-1 ,BeXtreme TV (Lima) (1080p) [Not 24/7]  (Local)
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
+
+#EXTINF:-1 ,BHTV  (General)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
+
+#EXTINF:-1 ,BHtv  (General)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+
+#EXTINF:-1 ,BHTV (720p)  (General)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 ,BHTV HD  (General)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 ,Canal 26 SD(360p)  (News)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+
+#EXTINF:-1 ,Canal 26 HD (720p)  (News)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" ,CANAL IPE [Not 24/7]  (Family)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 ,Central TV (Chosica)  (Local)
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 ,Cultura24.tv SD (360p)  (Culture)
+https://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+
+#EXTINF:-1 ,Cultura24.tv HD (720p)  (Culture)
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+#EXTINF:-1 ,Karibeña  (Music)
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 ,Monterrico TV FULLHD(1080p)  (Sports)
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1 ,Monterrico TV HD(720p) [Not 24/7]  (Sports)
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+
+#EXTINF:-1 ,Ovación TV (Lima) [Not 24/7]  (Sports)
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 ,Radio San Borja TV [Not 24/7]  (Music)
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 ,TV Perú [Not 24/7]  (General)
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 ,TV Perú Noticias [Not 24/7]  (News)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 ,TV Perú Noticias [Not 24/7]  (News)
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 ,CineAR 
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , Planeta TvMovies
+https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon NetWork
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://azxtv.com/aztv.png", Anime Zone
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png", Latino Kids
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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", PAKA PAKA TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75", EnerGeek
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75", EnerGeek 2
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, PlanetaTV Kids
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Kids 90
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Cloud Server Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg", Chavo TV
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/7b/d6/7464/c175.png", Top Latino 
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="PlutoTVKidsAnimation.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="Kids",Pluto TV Kids Animation (360p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+
+#EXTINF:-1, CNC DIGITAL
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+
+#EXTINF:-1, ATV COLOMBIA
+https://movil.ejeserver.com/live/verteve.m3u8
+
+#EXTINF:-1 tvg-logo="", Terror 24/7 Tv
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/196_.m3u8?token=Qpyt_fG7OkoJz03Ikop8fQ&expires=1657510876&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", ToonCast Tv
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/116_.m3u8?token=MD1AA3xFaz6iHRBJYBEdxQ&expires=1657511067&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Cartoonito
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=EfoDNCkrIdO09GOIIhN-Tw&expires=1657511344&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Chavo 24/7 Tv
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=Q9dyZTSlbHnPllmT4nHmsA&expires=1657511470&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Dragon Ball Super 24/7 Tv
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=KkinHyqLRrFkc1TQU6Qbrw&expires=1657511707&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Warner Bros Tv
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=MAoRzEA0vGW8tpy6nQcIQw&expires=1657511936&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Gol Peru
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=qOELDnsBA6QKvzuHAWY6lg&expires=1657512025&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Movistar + Deportes
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=2gKD2uKPSDP7QyoPDg_7XQ&expires=1657512101&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Directv Sports
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=C58YmwdlISmwzaeUcHEVJg&expires=1657512155&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", America Tv Perú
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=NHTxG8KtIFHTo0N7tG8hvA&expires=1657512289&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Latina Perú
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=lDGeSpIVxSNixQfTWP6hmA&expires=1657512398&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", WillaxPerú
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/153_.m3u8?token=qXRMkZv8agMq48MlFhr2rA&expires=1657512529&ip=179.6.146.105
+
+#EXTINF:-1 tvg-logo="", Planea Tv
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Exitosa Tv
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-logo="", Planeta Tv
+https://live.obslivestream.com/planetatv/index.m3u8
