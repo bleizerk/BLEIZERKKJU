@@ -6,23 +6,14 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1, ATV Perú
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
-#EXTINF:-1, America Tv Internacional
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657450046/ei/3lnKYuq4GoybobIP5Y-Q-Ag/ip/2001%3A1388%3A49e7%3Ad081%3A591b%3A6ae3%3Aecee%3A9fe5/id/zcWXboTnous.1/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/pe/spc/lT-Khkls5c9xVnniKOXha3MjD8HZ5AE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUuSteHTZYt210OSRlGLMnN9frp2-ySiHgJG_TZSDC7ECIQCk0pUiN1UvVWS06ahNCwHL2QNZw6dX_cSXFDaOCbLyCA%3D%3D/file/index.m3u8
-
-#EXTINF:-1, Tv Color 
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, BestCable Perú
-https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Global Perú
+http://190.108.83.142:8000/play/a00x/index.m3u8
 
 #EXTINF: -1, PANAMERICANA TV
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 ,24 TV Culturales (Peru)
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-
-#EXTINF:-1 ,BeXtreme TV (Lima) (1080p) [Not 24/7]  (Local)
-https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 
 #EXTINF:-1 ,BHTV  (General)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
@@ -128,42 +119,6 @@ https://cloudvideo.servers10.com:8081/8150/index.m3u8
 
 #EXTINF:-1, ATV COLOMBIA
 https://movil.ejeserver.com/live/verteve.m3u8
-
-#EXTINF:-1 tvg-logo="", Terror 24/7 Tv
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/196_.m3u8?token=Qpyt_fG7OkoJz03Ikop8fQ&expires=1657510876&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", ToonCast Tv
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/116_.m3u8?token=MD1AA3xFaz6iHRBJYBEdxQ&expires=1657511067&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Cartoonito
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=EfoDNCkrIdO09GOIIhN-Tw&expires=1657511344&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Chavo 24/7 Tv
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=Q9dyZTSlbHnPllmT4nHmsA&expires=1657511470&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Dragon Ball Super 24/7 Tv
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=KkinHyqLRrFkc1TQU6Qbrw&expires=1657511707&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Warner Bros Tv
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=MAoRzEA0vGW8tpy6nQcIQw&expires=1657511936&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Gol Peru
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=qOELDnsBA6QKvzuHAWY6lg&expires=1657512025&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Movistar + Deportes
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=2gKD2uKPSDP7QyoPDg_7XQ&expires=1657512101&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Directv Sports
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=C58YmwdlISmwzaeUcHEVJg&expires=1657512155&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", America Tv Perú
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=NHTxG8KtIFHTo0N7tG8hvA&expires=1657512289&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", Latina Perú
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=lDGeSpIVxSNixQfTWP6hmA&expires=1657512398&ip=179.6.146.105
-
-#EXTINF:-1 tvg-logo="", WillaxPerú
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/153_.m3u8?token=qXRMkZv8agMq48MlFhr2rA&expires=1657512529&ip=179.6.146.105
 
 #EXTINF:-1 tvg-logo="", Planea Tv
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
