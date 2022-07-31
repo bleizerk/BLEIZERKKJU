@@ -102,6 +102,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75", EnerGeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75", EnerGeek 3
+https://stream.wifispeed.cl:3993/live/energeeklive.m3u8?WebM3UCL
+
 #EXTINF:-1, PlanetaTV Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 
@@ -138,8 +141,60 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="", Animax Latino
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Cq0EQbDrMmqQWkdZEUy9kIJ6KhyN8aQIywOJlh1XvHL6lOw_Vsoj4r3YkU9dIJFAmzFaL2yccvKzKPefArDxTkVALrcdkloyrTyOS22c9dQPE6xOi5TkKHbpO0cp9mkz0NSwIPkrc5MRGekNvLw7EOPl6HUDD9JTvqUxkY51xrlhd4hic-8I96CxK9kcs4KYS9Qbs5BM26-uh92uws5qgd3EllhPlvPWh4uHinlfm9DoeL_JJcS7Sifs3HBbJsEUE4_3Jkl6KSI3NEERElrzyTkFXorChk1AfQVQvzm5vevi7cgj7_T1_K1WVGYi6Gf4_KK9cw9vNM1pPlD9OV45i3gv7P0ZW5G_Gexe1IeZlCkNz1CJ_7uIsVEr_SzlC8StKu2JJcMOEa5E90NOvspNRQ3ocXOgws3xm2nGBss4lWi2PminzKASHOaH1pSGEBgJu_RZXoh-GPzVigWKGi6CMjcyZR0J6dyJbRJVT0XsROIPHQPWisDDw8HX8suKL9-NDf63WOqFsBtrA_9tE4yL74HHevdZRwuUNt8f107i33tyvdQOqC6KHETaPxZhu1txZ6Jz8513pYxNP_squLj4yuQNnCgdnwEe2_6botpTYWpsLVQ_5FqbNl8JhrvGuRQepi8YKlO6UJfTPamEz3HA8A3V-lcjPYLM1rA-difqJkm44z950x2HNAjmeWLJ_j3NYtiTwAUClH4StBWOYQ2Ke-XdB4g_XJnL43XbU7BRigYaDDgGbZI1qt5g7GfcliABKgl1cy1lYXN0LTEw3gI.m3u8
 
+#EXTINF:-1 tvg-logo="", GogoplayTV
+https://live-nld-1.livepush.io/live/emIX-HNuCio-PClg/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Simpson Tv
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", Viwix Accion
 https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", Viwix Estrenos
 https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", Planeta Junior Tv España
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Fixi y Foxy Tv
+https://3b1f302803504be983edf67a415ccbc8.mediatailor.us-east-1.amazonaws.com/v1/master/89d8075d3a928921d573b23f45b98499b71505b2/BlimTV_LIVE_FIXANDFOXI_HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Retro Plus 3 Tv
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1347731540.m3u8
+
+#EXTINF:-1 tvg-logo="", Pluto Tv Anime España
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="", Pluto Tv One Piece
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="", Pluto Tv Anime Clasico España
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="", Pluto Tv Nick Clasico España
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="", Pluto Tv Nick Clasico Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="", Pluto Tv Rugrats Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="", Series Retro Tv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="", CSTV
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="", Bio bio Tv
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
