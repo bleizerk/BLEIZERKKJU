@@ -81,6 +81,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon NetWork
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1, DREIKO TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1067175487.m3u8
+
+#EXTINF:-1, RetroMágico TV
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
 #EXTINF:-1 tvg-logo="http://azxtv.com/aztv.png", Anime Zone
 http://azxtv.com/hls/stream.m3u8
 
@@ -128,3 +134,12 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 
 #EXTINF:-1 tvg-logo="", Planeta Tv
 https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Animax Latino
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Cq0EQbDrMmqQWkdZEUy9kIJ6KhyN8aQIywOJlh1XvHL6lOw_Vsoj4r3YkU9dIJFAmzFaL2yccvKzKPefArDxTkVALrcdkloyrTyOS22c9dQPE6xOi5TkKHbpO0cp9mkz0NSwIPkrc5MRGekNvLw7EOPl6HUDD9JTvqUxkY51xrlhd4hic-8I96CxK9kcs4KYS9Qbs5BM26-uh92uws5qgd3EllhPlvPWh4uHinlfm9DoeL_JJcS7Sifs3HBbJsEUE4_3Jkl6KSI3NEERElrzyTkFXorChk1AfQVQvzm5vevi7cgj7_T1_K1WVGYi6Gf4_KK9cw9vNM1pPlD9OV45i3gv7P0ZW5G_Gexe1IeZlCkNz1CJ_7uIsVEr_SzlC8StKu2JJcMOEa5E90NOvspNRQ3ocXOgws3xm2nGBss4lWi2PminzKASHOaH1pSGEBgJu_RZXoh-GPzVigWKGi6CMjcyZR0J6dyJbRJVT0XsROIPHQPWisDDw8HX8suKL9-NDf63WOqFsBtrA_9tE4yL74HHevdZRwuUNt8f107i33tyvdQOqC6KHETaPxZhu1txZ6Jz8513pYxNP_squLj4yuQNnCgdnwEe2_6botpTYWpsLVQ_5FqbNl8JhrvGuRQepi8YKlO6UJfTPamEz3HA8A3V-lcjPYLM1rA-difqJkm44z950x2HNAjmeWLJ_j3NYtiTwAUClH4StBWOYQ2Ke-XdB4g_XJnL43XbU7BRigYaDDgGbZI1qt5g7GfcliABKgl1cy1lYXN0LTEw3gI.m3u8
+
+#EXTINF:-1 tvg-logo="", Viwix Accion
+https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", Viwix Estrenos
+https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
