@@ -412,6 +412,8 @@ https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd0
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/ZAZ/index-zaz/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="ANIMACION",Planeta Junior TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMACION",ANIMAX2
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CpcFfybjXxw9wyRViw-NuRSpOeNV8ykwReJ5q2iPHQ59aDNKic9gUYSz04uRWVKB_SAGiCL0ecOv4Hpnw3NyM_UeLTh_xuDcjM34jhsm2E5QtwkTrmWwXGa6Fm3KDqucorUwW0sIjvqQtocJFxE0IqFBQChGJXtJBKQimaFo_vfhlx_IhU5oVOK9pjuvmRbrTZAWZculO7rcO33xSZsFwf53vla4-UsB9G7EzyCyVZkL_JK8SXbX9vCWA9rQMKsmjgp1RoksX87hPx7D7bocTtsyka3kVuHawHpEi-N77b-R9S5YMdgkd2SbGhppt0JSCNV2j_axa1Ump_7IfxGQvMSDMqnrE1Xy7n8h1Jq1Afmtnv2wRRVnlim5f1JPiBHL0NiNfoFIhxTqzM33cI46sw3hLORNAqHT6isoTdmd-TN5Ys6__lzlYms21v8UTdvz49f6awblTAYifIatknSRqoNosg1xqcxTnnOYlNLuosoGwGCUuZx7_B8IHz_dRTZ3RbUSylX9s5qr7RDAgVJjPXIZLOi0Pv5Ir-mazmJbQuuIpny7jDjg6WgX22QZeC30RkFDI_N1yjK22tfMEtoikeay311vbOjH805IxOdFx9v75fLERFsv8J-F8TmeQrY6yNAAbJ106ulXuEhaMY0qQMWCkAykzh4PUTSkr1pRgUrTy9RlkkZ1Q_fbprB_QD3Gbyc1EQOZd24TdfMXnx8srLAaOcoO6t54b5FSDeVHMXtIbfgcL88Vforoh5yVMqR9MpY5Juw4O-bwRFbG9CjijLthQxXXrYw0meGSYzWjlsBMzv33K8fk6mZMrjF1hUiQcacnZuRR5bWLlPn54I0kK3zdj0jrEcbDbvTAFRCmgQrINurb59RGcE0aGgxrEcVDo0Zukvj9Sw8gASoJdXMtZWFzdC0xMOUC.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
