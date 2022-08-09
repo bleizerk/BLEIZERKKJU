@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, disney
+#EXTINF:-1, Disney
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 #EXTINF:-1, América Tv Perú
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660036737/ei/IdLxYtfbIJzh1AHy2q0I/ip/2001%3A1388%3A49e6%3A6143%3Aad54%3A46b4%3Ad761%3A48/id/VDH1StIHLi0.1/source/yt_live_broadcast/requiressl/yes/tx/24201800/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/pe/spc/lT-KhoKwg4Owe-djzTRAsW28fEpaurc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24239123/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALEotqOVzfIC7kBL48XHMz2ZEock9XSCekNQy4zrzsUdAiBvry4DLsxBpEapz9SWIUH7da1U5E_-7l_iOM1FBVjyBw%3D%3D/file/index.m3u8
