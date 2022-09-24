@@ -1,7 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y LA PIEDRA FILOSOFAL
 https://ia601406.us.archive.org/29/items/01-h.-p.-y-la-piedra-filosofal/01%20H.P.%20y%20la%20piedra%20filosofal.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y LA CAMARA SECRETA
+https://ia601404.us.archive.org/31/items/04-h.-p.-y-el-caliz-de-fuego-parte-1/02%20H.P.%20y%20La%20Camara%20Secreta.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y EL PRISIONERO DE AZKABAN PARTE 1
+https://ia601404.us.archive.org/31/items/04-h.-p.-y-el-caliz-de-fuego-parte-1/03%20H.P.%20y%20El%20Prisionero%20de%20Azkaban_Parte%201.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y EL PRISIONERO DE AZKABAN PARTE 2
+https://ia601404.us.archive.org/31/items/04-h.-p.-y-el-caliz-de-fuego-parte-1/03%20H.P.%20y%20El%20Prisionero%20de%20Azkaban_Parte%202.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y EL CALIZ DE FUEGO PARTE 1
+https://ia601404.us.archive.org/31/items/04-h.-p.-y-el-caliz-de-fuego-parte-1/04%20H.P.%20y%20El%20C%C3%A1liz%20de%20fuego_Parte%201.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y EL CALIZ DE FUEGO PARTE 2
+https://ia601404.us.archive.org/31/items/04-h.-p.-y-el-caliz-de-fuego-parte-1/04%20H.P.%20y%20El%20C%C3%A1liz%20de%20fuego_Parte%202.mp3
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULA ANIMADA", ElViajedeChihiro
 https://ia804500.us.archive.org/13/items/13.-el-viaje-de-chihiro/El.Viaje.de.Chihiro.1080p.mp4
