@@ -100,12 +100,6 @@ https://d1b3ih5h5mvhe9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1, DW SPANISH 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1, Disney
-http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1, América Tv Perú
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660036737/ei/IdLxYtfbIJzh1AHy2q0I/ip/2001%3A1388%3A49e6%3A6143%3Aad54%3A46b4%3Ad761%3A48/id/VDH1StIHLi0.1/source/yt_live_broadcast/requiressl/yes/tx/24201800/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/pe/spc/lT-KhoKwg4Owe-djzTRAsW28fEpaurc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24239123/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALEotqOVzfIC7kBL48XHMz2ZEock9XSCekNQy4zrzsUdAiBvry4DLsxBpEapz9SWIUH7da1U5E_-7l_iOM1FBVjyBw%3D%3D/file/index.m3u8
-#EXTINF:-1, Congreso Tv Perú
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660037028/ei/RNPxYuyhJZWR4dUPu4CggAY/ip/2001%3A1388%3A49e6%3A6143%3Aad54%3A46b4%3Ad761%3A48/id/Vg68Y6RQT5k.1/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhjdpDmONc_iDsCAUZao3BiZngWI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLdnBWzvjBBdi3VBbHeJrG1iViuoQEjK5-4Zp2gU_X68CIQD2gh_MWRsRXevOdUE1YxOZsAUoI670TYLLgVy7iIMlAQ%3D%3D/file/index.m3u8
 #EXTINF:-1, Perú Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, ATV+ Perú
@@ -146,14 +140,12 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 ,TV Perú Noticias [Not 24/7]  (News)
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKidsAnimation.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="Kids",Pluto TV Kids Animation (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+
 #EXTINF:-1, CNC DIGITAL
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
 #EXTINF:-1, ATV COLOMBIA
 https://movil.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1 tvg-logo="", Planea Tv
-https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="", Exitosa Tv
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-logo="", Planeta Tv
@@ -170,18 +162,7 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1  group-title="LATINO",Telecolor
 https://live.obslivestream.com/telecolormux/tracks-v3a1/mono.m3u8
-#EXTINF:-1  group-title="LATINO", Mega
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=70580802&PlaylistM3UCL
-#EXTINF:-1  group-title="LATINO", Mi Tv
-https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1388671765.m3u8?PlaylistM3UCL
-#EXTINF:-1  , FMTV
-https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w742611041.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="LATINO", Mi TV Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?nimblesessionid=177340559&PlaylistM3UCL
-#EXTINF:-1  group-title="LATINO", Ok TV
-https://stream.plixitv.live/oktv/oktv/chunklist_w1311079077.m3u8?PlaylistM3UCL
-#EXTINF:-1  group-title="LATINO", Peruanisima
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/chunklist_w188826096.m3u8?PlaylistM3UCL
+
 #EXTINF:-1  group-title="LATINO", Emocion TV
 https://v1.tustreaming.cl:19360/emociontv/emociontv.m3u8?PlaylistM3UCL
 
@@ -392,16 +373,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-620ac814864949000724fb77" tvg-id="620ac814864949000724fb77" tvg-chno="508" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="COMEDIA",Schitt's Creek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNJc3dV/taahm.jpg" tvg-group="24/7" group-title="COMEDIA", TWO AND A HALF MEN
-https://api4.tvgratis.live/st2/twoand/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5FxVFts/tbbt.jpg" tvg-group="24/7" group-title="COMEDIA", THE BIG BANG THEORY
-https://api4.tvgratis.live/st2/tbbt/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s5Z3s0y/chavo.jpg" tvg-group="24/7" group-title="COMEDIA", EL CHAVO
-https://api4.tvgratis.live/st2/elchavo/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg" "COMEDIA", Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KKZF5qT/chapulin.jpg" tvg-group="24/7" group-title="COMEDIA", CHAPULIN COLORADO
-https://api4.tvgratis.live/st2/chapulin/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA", Series Retro Tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="COMEDIA",ALF
@@ -417,8 +392,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759cc
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="INFANTIL", PAKA PAKA TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdtX3My/peppapig.jpg" tvg-group="24/7" group-title="INFANTIL", PEPPA PIG
-https://api4.tvgratis.live/st2/peppapig/master.m3u8
+
 
 #EXTINF:-1 channel-id="pluto-5e6a4d875d7ccf0007cc2cf1" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="329" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="ANIMACION",Pluto TV Animé Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -442,34 +416,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-chno="332" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="ANIMACION",Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sTztF/tomyjerry.png" tvg-group="24/7" group-title="ANIMACION", TOM Y JERRY
-https://api4.tvgratis.live/st2/tomyjerry/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c2dwthG/southpark.jpg" tvg-group="24/7" group-title="ANIMACION", SOUTH PARK
-https://api4.tvgratis.live/st2/southpark/master.m3u8
+
 #EXTINF:-1 channel-id="pluto-609ae5cd48d3200007b0a98e" tvg-id="609ae5cd48d3200007b0a98e" tvg-chno="511" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="ANIMACION",Comedy Central South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Npcvc5R/simpsons.jpg" tvg-group="24/7" group-title="ANIMACION", LOS SIMPSONS
-https://api4.tvgratis.live/st2/simpsons/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Npcvc5R/simpsons.jpg" group-title="ANIMACION", Simpson Tv
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMACION", CSTV
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q1nzXjG/scoobydoo.jpg" tvg-group="24/7" group-title="ANIMACION", SCOOBY DOO
-https://api4.tvgratis.live/st2/scooby/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2dPRQmB/naruto.jpg" tvg-group="24/7" group-title="ANIMACION", NARUTO
-https://api4.tvgratis.live/st2/naruto/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nrBPn1m/ooneytunes.jpg" tvg-group="24/7" group-title="ANIMACION", LOONEY TUNES
-https://api4.tvgratis.live/st2/looney/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQXxjJS/gardfield.jpg" tvg-group="24/7" group-title="ANIMACION", GARDFIELD
-https://api4.tvgratis.live/st2/gardfield/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2YqBFZ/futurama.png" tvg-group="24/7" group-title="ANIMACION", FUTURAMA
-https://api4.tvgratis.live/st2/futurama/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DrBsFxC/dragonballz.jpg" tvg-group="24/7" group-title="ANIMACION", DRAGON BALL Z
-https://api4.tvgratis.live/st2/dragonball/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TRfcqwz/coraje.jpg" tvg-group="24/7" group-title="ANIMACION", CORAJE
-https://api4.tvgratis.live/st2/coraje/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rugrats Aventuras en Pañales Pluto TV" tvg-logo="https://i.imgur.com/CkYNIMj.png" tvg-shift="0" group-title="ANIMACION", Rugrats Aventuras en Pañales Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?
+
 #EXTINF: -1 tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="ANIMACION", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="ANIMACION", Cartoon NetWork
@@ -498,8 +453,7 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="ANIMACION", Animax Latino
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpgF0l3qsfLzGpQvByqirp9WbXbNtWhR9WnMb7uCzL7CGIJThQEa-o7xH9hsLO4ugZw8-KGGAM63kcMFTHzR61v7wCI5qWGRdyrDEHz0aW6RcQ6Uto8WphmiqM3l6UGtsgsj-PMFLT1V9hfYKWreWQlEEIKutvgxzUWSJs_wtiVgK2m1MN--kti5iqBy7FG0bctNFdta-RGPLUDzGISIBsxibfJIcpp8vG68PD4407eSWAT4Z1_AF1zP5JwgIG6-KQ9CIQnOsggbKnbDSFV36zViTapQpF1Stnaj3ikJ4aPw2jLIm9PlZvDJiTpyRk6pLZj4OJtgzTNUk8KH5vHONiLR57nmjNmnyKG-K1V3wuZsxOpRVuTQTqZ-s-fY81m9AGOognhgUWXj5ioy1G1myQyyPYncIbL2ZfRxn5PV62j8lzXX3me9gartjyMrFN9amn52WNqLIt-NVtetdyRdXfcZ2CSxbGfn4LYFC8grCWThi96TI67GS8CtThOlpZ2egpqpNwu9YOBumUoBE3BOZuhzRaieDibH_UH7z17ueQfabW5-b6LjlVfvVVkICNWk5yuT-5JaFUz-iM9PjiRmudqIoS6hBFz8zKtIi8uFN-uCfRBYEtGPwnNHb_mRN7AJ3YbTqDAtbyzKdsVsXHu19aEOo4_cgVzd3LLuzUpuopyJntgdYHh5kdM6hurSS8gYlO7OrhiCVCZ2AJBGoO_otyQXUEQ6clIhOULheLWDz_NJa-iV1_wWtkahualO0T0xsRY8iiMIAkBIREcYyIZS8CyUa9O5Rr8ONLVU7_EroLe3kcFKg92vj8gF8oLrmUmZnppD_y0_HLNjake3RXjG2NR7ezjeD5YArg_zMCdJV2YflItgYIjpetCYJRoMJy1EUwMRt2cceD4wIAEqCXVzLWVhc3QtMTDfAg.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ANIMACION", GogoplayTV
-https://live-nld-1.livepush.io/live/emIX-HNuCio-PClg/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ANIMACION", Pluto Tv Anime España
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="" group-title="ANIMACION", Pluto Tv One Piece
@@ -546,12 +500,8 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ftKWvUb.png" group-title="DEPORTES",Bein Sports Xtra en espanol
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CKyZXdI.png" group-title="DEPORTES",MZ Sports
-https://video.misistemareseller.com/mzsports/mzsports/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lUMr3An.png" group-title="DEPORTES",MZ Sports Plus
-https://srv.panelcast.net/canalmz/canalmz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v30TL5k/f1.jpg" tvg-group="DEPORTES" group-title="DEPORTES", F1
-https://api4.tvgratis.live/st2/f1/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES",Real Madrid Tv HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="DEPORTES",Monterrico TV FULLHD(1080p)  (Sports)
