@@ -48,8 +48,7 @@ https://ia601404.us.archive.org/31/items/04-h.-p.-y-el-caliz-de-fuego-parte-1/07
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULA ANIMADA", ElViajedeChihiro
 https://ia804500.us.archive.org/13/items/13.-el-viaje-de-chihiro/El.Viaje.de.Chihiro.1080p.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULA ANIMADA", Dr. Strange El Multiverso de la Locura
-https://ia801407.us.archive.org/31/items/d-0ct-0r-str-4ng-3-3l-mult-1v-3rs-0-d-3-l-4-l-0cur-4-marvel-2022-xavier-ivan-gallo-productions/D0ct0r%20Str4ng3%20%203l%20mult1v3rs0%20d3%20l4%20l0cur4%20%28Marvel%202022%29%28Xavier%20Ivan%20Gallo%20Productions%29.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULA ANIMADA", Mi Villano Favorito
 https://ia601503.us.archive.org/18/items/gru-mi-vill-4n-0-f-4v-0rit-0/Gru%20mi%20vill4n0%20f4v0rit0.mp4
@@ -65,23 +64,6 @@ https://ia804502.us.archive.org/10/items/toy.-01/TOY.01.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULA ACCION", 1917
 https://ia803405.us.archive.org/29/items/1917.2019.1080p-dual-lat-cinecalidad.is_202102/1917.2019.1080p-dual-lat-cinecalidad.is.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",TNT
-http://51.222.30.250:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8?token=HhFfA0ZZGghHUFtQBFFXVFBRClAADgBWCAMCV1AFU1dSV1MDVghaBV0UTxQWFRNUAAltC1AbDQYNVE1BFkcERzpaU0APEwkKXBRPFBEIDFRDXgJOFkleUxpYQ1FSDFgDRx8VB01FXUALVw9pAQQXWAIBEFhaTFtbFEAODTxQBFgEXVNADxMIEEkUCkUVQ1tfFAheThZbXkNKAxUGQQ5DAFUHBkAZE1tdEFgXRBxDWxMxIRBOFlxPQ10MEgoMWkMPR14EFw0TFBAMRTxEABIVQwQFXwdGGw0VCEBNQQ5VGWoGXFkMUFJMWwpYEBRfQ1ETTUZfDVpQQ1hKPREKBxZbF1cGAVsGE0U=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",TOONCAST
-http://51.222.26.249:25461/live/m0nk3yn3w/n3wm0nk3y/158.m3u8?token=HhFfA0ZZGghHUgcOV1kDUwUBA1oGAAcEClZXVlIBAg1WUgNQU1deAQcUTxQWFRNUAAltC1AbDQYNWk1BFkcERzpaU0APEwkKXBRPFBEIDFRDXgJOFkleUxpYQ1FUAlIBRx8VB01FXUALVw9pAQQXWAIBEFhaTFtbFEAODTxQBFgEXVNADxMIEEkUCkUVQ1tfFAheThZbXkNKAxUGQQ5DA1QHFU4XUldHC0IRT0dbQ2EkRh5AUUFDUlYRCAwNFlsXCABCWhcdGlsWaRFTFhUTVAAJVxAWAxUHGk5DDgJMPlYKXVkHVkVRXQtFQQxHUUMdQwldDF1NWEVnEggHQQ5DB1cBD0BI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",CARTOONITO
-http://142.44.210.132:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8?token=HhFfA0ZZGghHUFFSAVFRCABdUVVRDQ8PXlAAVFcBBwYBV1RXA1ANUwMUTxQWFRNUAAltC1AbDQIATkMWEFETagxXFVgXAAALRxpBQgwMBBNbVB5ARFBTFQJAU1ZVBVIXSRFSGkFUSlwEWjxSABcIUgRGCAxBVVsbGg0PPAdRDFQLVxVYFwEaHkdfEEZHWw9EDQgeQFZQQ0VZFgRBWRZTBlUHFU4XUldHC0IRT0dbQ2EkRh5AUUFDUlYRCAwNFlsXCABCWhcdGlsWaRFTFhUTVAAJVxAWAxUHGk5DDgJMPlYKXVkHVkVRXQtFQQxHUUMdQwldDF1NWEVnEggHQQ5DDVwBBEBI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",NICK
-http://51.161.35.88:25461/live/m0nk3yn3w/n3wm0nk3y/136.m3u8?token=HhFfA0ZZGghHAFtVVVEDBlddVlpQDgcDAAdXVFQAVwADVwVTVwcKU1IUTxQWFRNUAAltC1AbDQYLVE1BFkcERzpaU0APEwkKXBRPFBEIDFRDXgJOFkleUxpYQ1JVAVIARx8VB01FXUALVw9pAQQXWAIBEFhaTFtbFEAODTxQBFgEXVNADxMIEEkUCkUVQ1tfFAheThZbXkNKAxUGQQ5DBF0DBEAZE1tdEFgXRBxDWxMxIRBOFlxPQ10MEgoMWkMPR14EFw0TFBAMRTxEABIVQwQFXwdGGw0VCEBNQQ5VGWoGXFkMUFJMWwpYEBRfQ1ETTUZfDVpQQ1hKPREKBxZbF1QFBFcXTA==
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",DISNEY 
-http://51.161.35.88:25461/live/m0nk3yn3w/n3wm0nk3y/82.m3u8?token=HhFfA0ZZGghHAVpVVANYAVAHBFEHDA8CDAFSVwJQVFFRAw5WAgJZBFcUTxQWFRNUAAltC1AbDQ8KTkMWEFETagxXFVgXAAALRxpBQgwMBBNbVB5ARFBTFQJAUlJVAlMXSRFSGkFUSlwEWjxSABcIUgRGCAxBVVsbGg0PPAdRDFQLVxVYFwEaHkdfEEZHWw9EDQgeQFZQQ0VZFgRBWRZQB1AHFU4XUldHC0IRT0dbQ2EkRh5AUUFDUlYRCAwNFlsXCABCWhcdGlsWaRFTFhUTVAAJVxAWAxUHGk5DDgJMPlYKXVkHVkVRXQtFQQxHUUMdQwldDF1NWEVnEggHQQ5DDVYDDkBI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",DISNEY JUNIOR
-http://51.222.111.24:25461/live/m0nk3yn3w/n3wm0nk3y/83.m3u8?token=HhFfA0ZZGghHVQZUBlRZVwBXVAdQXAIFXQcDVQcGBAVVC1ZVVwFeVlUUTxQWFRNUAAltC1AbDQ8LTkMWEFETagxXFVgXAAALRxpBQgwMBBNbVB5ARFBTFQJAUlNbDVMXSRFSGkFUSlwEWjxSABcIUgRGCAxBVVsbGg0PPAdRDFQLVxVYFwEaHkdfEEZHWw9EDQgeQFZQQ0VZFgRBWRZXAFMDFU4XUldHC0IRT0dbQ2EkRh5AUUFDUlYRCAwNFlsXCABCWhcdGlsWaRFTFhUTVAAJVxAWAxUHGk5DDgJMPlYKXVkHVkVRXQtFQQxHUUMdQwldDF1NWEVnEggHQQ5DB1QLBFUXTA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP
-https://ia601406.us.archive.org/29/items/01-h.-p.-y-la-piedra-filosofal/01%20H.P.%20y%20la%20piedra%20filosofal.mp3
-
 
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-chno="1253" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20220712T041427.png" group-title="USA",Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
