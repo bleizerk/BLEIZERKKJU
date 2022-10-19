@@ -440,7 +440,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg" "COMEDIA", Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg" "COMEDIA", Chavo TV Plus
+https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA", Series Retro Tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="COMEDIA",ALF
@@ -508,11 +509,13 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75" group-title="ANIMACION", EnerGeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75" group-title="ANIMACION", EnerGeek 3
-https://stream.wifispeed.cl:3993/live/energeeklive.m3u8?WebM3UCL
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 group-title="ANIMACION", PlanetaTV Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="ANIMACION",PlanetaTV Kids
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w250505201.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACION",Cloud TV Plus
+https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8
 #EXTINF:-1 group-title="ANIMACION", Kids 90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ANIMACION", Cloud Server Kids
@@ -629,6 +632,20 @@ https://mediacpstreamchile.com:1936/evavision/evavision/chunklist_w306530665.m3u
 http://vcpar.myplaytv.com/humormax/live/chunklist_w2059296771.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="PELICULAS", Mega Cine Tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Cine Sureño
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Cine Real
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Top Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+
+
 
 #EXTINF:-1 channel-id="pluto-5fb554d87a0c480007c8dada" tvg-id="5fb554d87a0c480007c8dada" tvg-chno="347" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="GAMING",ESR 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
