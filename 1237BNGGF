@@ -446,6 +446,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="COMEDIA",ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Chiquilines
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="INFANTIL",El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f29ada4bdaebd000708d49d" tvg-id="5f29ada4bdaebd000708d49d" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="INFANTIL",Barney
