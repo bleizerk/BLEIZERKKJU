@@ -632,17 +632,17 @@ https://mediacpstreamchile.com:1936/evavision/evavision/chunklist_w306530665.m3u
 http://vcpar.myplaytv.com/humormax/live/chunklist_w2059296771.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="PELICULAS", Mega Cine Tv
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Cine Sureño
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="PELICULAS", Cine Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Cine Real
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="PELICULAS", Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Juntos
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="PELICULAS", Juntos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Tu Cine
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="PELICULAS", Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Top Cine
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="PELICULAS", Top Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="INFANTIL", Horrorfy
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://play-lh.googleusercontent.com/iZGc_UyfJ6D-ckl6lONFin7LfbYjFsUW2i-97dVJVSSUBqVSbi8_9Qq84tqDwUIs-fg" group-title="PELICULAS", Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
 
