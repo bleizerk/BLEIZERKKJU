@@ -13,6 +13,30 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CtMFSGyhyLMH3L1Z53NwZvC1uOJ
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Super Campeones 24/7
+http://51.222.109.8:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=129319&extension=m3u8&token=Q0FYAkZRGwoVBQRcVFYHVVUBAQANBVBTAwZZUFcGVwZbVAdVBAwIUw8TGBsVR0ZVAw48W1EXXwQADFJSWx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkECVAwADBIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwgCDwAWFURQW0UMFxFLFw9HZXcXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsDBgMAAURO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Rick y Morty 24/7
+http://51.222.109.8:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=3386&extension=m3u8&token=Q0FYAkZRGwoVAlVdUQADBlpUVQtRBFMDBAxRUlsFAVQLVQcFAwELBgQTGBsVR0ZVAw48W1EXXwYBDVdPQERBB0o8WQcXAxsBAAEADVECFhxAFwpfUBdfBR4XEQoGEwhAClsIUQQbFRJSSUBcFF1VXD0HBkRcVgAXCFsUDw4dEA1WPFQGWFhXVBULFglEHxZZERNBCFtACVkeFwMKFkNTFl1BCkEGDAoAFR0WWglGWkQQGkEIF2UgFx4XBBsWVFwRUQxeQQ8bVANCCRYVRFpHbxAGEEZHUARYV0dDWUAAEE4aDlEbalpWXllUV00PXFpDQFlBAhcZR1hdWwgXDUNtElEHElkXCAsBDwAWRA==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y LA PIEDRA FILOSOFAL
 https://ia601406.us.archive.org/29/items/01-h.-p.-y-la-piedra-filosofal/01%20H.P.%20y%20la%20piedra%20filosofal.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUDIOLIBRO",HP Y LA CAMARA SECRETA
