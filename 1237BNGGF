@@ -54,7 +54,7 @@ https://ia601404.us.archive.org/31/items/04-h.-p.-y-el-caliz-de-fuego-parte-1/07
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-GhMHy6okCJk/Wl4jx4tNTRI/AAAAAAAAITc/lCTK-PBSkPEdHlxsVpN8rXRev7OG9akMQCLcBGAs/s1600/dvd-portada-1.jpg" group-title="PELICULA ANIMADA", ElViajedeChihiro (2001)
 https://ia804500.us.archive.org/13/items/13.-el-viaje-de-chihiro/El.Viaje.de.Chihiro.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/17/02/08/13/45/536055.jpg" group-title="PELICULA ANIMADA", Your Name
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/17/02/08/13/45/536055.jpg" group-title="PELICULA ANIMADA", Your Name (2016)
 http://190.108.85.179/Peliculas/Shinkai/Your%20Name-1.m4v
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULA ANIMADA", Mi Villano Favorito
 https://ia601503.us.archive.org/18/items/gru-mi-vill-4n-0-f-4v-0rit-0/Gru%20mi%20vill4n0%20f4v0rit0.mp4
@@ -72,8 +72,10 @@ https://ia804502.us.archive.org/10/items/toy.-01/TOY.01.mp4
 http://190.108.85.179/Peliculas/Madhouse/La%20Chica%20Que%20Saltaba%20A%20Trav%C3%A9s%20Del%20Tiempo-1.m4v
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI2MTY5Y2UtZDljZC00ZjcxLWI2ZTItMGQzNjY0MmM0NzI4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="PELICULA ANIMADA", superPets (2022)
 http://51.81.208.167/pelis2022/DC.League.of.Super.Pets.2022.lati.mp4
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://spoilertime.com/wp-content/uploads/2022/03/i3R16rGnEytYkJOyao9JOFUuvu8-780x1170.jpeg" group-title="PELICULA ANIMADA", Los tipos Malos (2022)
+http://51.81.208.167/pelis2022/The.Bad.Guys.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://larepublica.pe/resizer/jsrNhTamojS76Cx0bDg2l-BGx9E=/538x0/top/larepublica.pe/resizer/V0qBlvHI60_uwVqhOkfzGaZAv74=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SUFZ63OO4NGXDE266SF3BLCD7U.jpg" group-title="PELICULA COMEDIA", Ice Age: Las aventuras de Buck (2022)
+http://51.81.208.167/pelis2022/Ice.Age.Adventures.of.Buck.Wild.2022.lati.mp4
 
 
 
@@ -88,6 +90,12 @@ https://archive.org/download/operacion-cerveza-1080p-dual-3.29-gb/Operacion%20Ce
 https://ia801403.us.archive.org/30/items/depredador-la-presa-1080p-dual-5.46-gb/Depredador%20La%20Presa%201080p%20DUAL%205.46%20GB.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/f7/4b/0d/f74b0df085611e00da4a21990b80ba41.png" group-title="PELICULA ACCION", Jurassic World Dominion (2022)
 http://51.81.208.167/pelis2022/Jurassic.World.Dominion.2022.lati.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/22/09/10/13/31/5132052.jpg" group-title="PELICULA COMEDIA", Hocus Pocus 2 (2022)
+http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
+
 
 
 
