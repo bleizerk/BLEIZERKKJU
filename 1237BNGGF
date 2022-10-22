@@ -19,10 +19,11 @@ https://bit.ly/3TmlWVu
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Super Campeones 24/7
-http://51.222.109.8:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=129319&extension=m3u8&token=Q0FYAkZRGwoVBQRcVFYHVVUBAQANBVBTAwZZUFcGVwZbVAdVBAwIUw8TGBsVR0ZVAw48W1EXXwQADFJSWx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkECVAwADBIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwgCDwAWFURQW0UMFxFLFw9HZXcXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsDBgMAAURO
+http://51.222.109.8:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=129319&extension=m3u8&token=Q0FYAkZRGwoVBg1aVwNWAwFVUApTBVACA1AHBVQHBVsMAFZXAAEPBAQTGBsVR0ZVAw48W1EXXwQADFJSWx0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEBVw0MChIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGwgCAQAWFURQW0UMFxFLFw9HZXcXTUEHSUYHVhBZDFsbAxJaAkEBRB8WWRE8EVdGQRdQU1gEEUALEFMaTxIOVEFmU1hfWlwFR11fDBBBCBcFRxkQWA4NC0VdEGcTWQcXAxsDBgMAAURO
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Rick y Morty 24/7
 http://51.222.109.8:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=3386&extension=m3u8&token=Q0FYAkZRGwoVAlVdUQADBlpUVQtRBFMDBAxRUlsFAVQLVQcFAwELBgQTGBsVR0ZVAw48W1EXXwYBDVdPQERBB0o8WQcXAxsBAAEADVECFhxAFwpfUBdfBR4XEQoGEwhAClsIUQQbFRJSSUBcFF1VXD0HBkRcVgAXCFsUDw4dEA1WPFQGWFhXVBULFglEHxZZERNBCFtACVkeFwMKFkNTFl1BCkEGDAoAFR0WWglGWkQQGkEIF2UgFx4XBBsWVFwRUQxeQQ8bVANCCRYVRFpHbxAGEEZHUARYV0dDWUAAEE4aDlEbalpWXllUV00PXFpDQFlBAhcZR1hdWwgXDUNtElEHElkXCAsBDwAWRA==
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Simpsons 24/7
+http://144.217.15.233:25461/streaming/clients_normal.php?username=malotv&password=gratis&stream=136246&extension=m3u8&token=Q0FYAkZRGwoVAgdaAFIGAFtWBgsGBFcFClEAAFFVCgMNUgJWAF8IVFETGBsVR0ZVAw48W1EXXwQBA1NXVB0QF0sGQjxcXRsKFQADCVIHAwFAT0FGXFgAFwgFTUESWFZAAkEDUwAADhIbE1FBElZGXgMPPFZQQwxWVxdbDRddXk4aDF48UVxUUVlVFgNEAxYcQAoQQhcPC0BeWU1BAFhGEFkXVUEPGw0GAxMYGwVcQV4WERoQDxc1cBAZQwYaRVcMSwpfDRcDG10ERAwbShFdQz0RBkFBRwBUX1ATQVgTA0AUQV0CTWZaX1lfUVoSWlteEUFZEAUXSRdfWg8KFl5APUgKVEEPGwsBDwgWRA==
 
 
 
@@ -103,7 +104,8 @@ http://51.81.208.167/pelis2022/DC.League.of.Super.Pets.2022.lati.mp4
 http://51.81.208.167/pelis2022/The.Bad.Guys.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://larepublica.pe/resizer/jsrNhTamojS76Cx0bDg2l-BGx9E=/538x0/top/larepublica.pe/resizer/V0qBlvHI60_uwVqhOkfzGaZAv74=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SUFZ63OO4NGXDE266SF3BLCD7U.jpg" group-title="PELICULA ANIMADA", Ice Age: Las aventuras de Buck (2022)
 http://51.81.208.167/pelis2022/Ice.Age.Adventures.of.Buck.Wild.2022.lati.mp4
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/33/Peli-huevos-poster.jpg/revision/latest/scale-to-width-down/350?cb=20100620051116&path-prefix=es" group-title="PELICULA ANIMADA", Una Pelicula de Huevos
+http://51.81.208.167/cine/Una.Pelicula.De.Huevos.1.mkv
 
 
 
