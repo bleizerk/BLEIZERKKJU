@@ -106,7 +106,8 @@ http://51.81.208.167/pelis2022/The.Bad.Guys.2022.lati.mp4
 http://51.81.208.167/pelis2022/Ice.Age.Adventures.of.Buck.Wild.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/33/Peli-huevos-poster.jpg/revision/latest/scale-to-width-down/350?cb=20100620051116&path-prefix=es" group-title="PELICULA ANIMADA", Una Pelicula de Huevos
 http://51.81.208.167/cine/Una.Pelicula.De.Huevos.1.mkv
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/46/My_Hero_Academia_World_Heroes%27_Mission.png/revision/latest?cb=20211204232806&path-prefix=es" group-title="PELICULA ANIMADA", My Hero Academia Mision Mundial de Heroes (2022)
+http://51.81.208.167/pelis2022/My.Hero.Academia.Mision.mundial.de.heroes.2021.lati.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/09/15/10/0234685.jpg" group-title="PELICULA ACCION", 1917 (2019)
@@ -121,6 +122,9 @@ https://ia801403.us.archive.org/30/items/depredador-la-presa-1080p-dual-5.46-gb/
 http://51.81.208.167/pelis2022/Jurassic.World.Dominion.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" group-title="PELICULA ACCION", Top Gun (2022)
 http://51.81.208.167/pelis2022/Top.Gun.2.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/ybSIUt48PsM08F4UZwHdjL9ZVG2.jpg" group-title="PELICULA ACCION", Tren Bala (2022)
+http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/22/09/10/13/31/5132052.jpg" group-title="PELICULA COMEDIA", Hocus Pocus 2 (2022)
