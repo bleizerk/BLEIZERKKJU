@@ -6,7 +6,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ia904705.us.archive.org/2/items/2_20221020_202210/1.png" group-title="EVENTOS" , BLEIZERK TV 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666421049/ei/2TxTY9aJAZmD-LAPpbqQ8Ag/ip/201.230.37.127/id/Tx9ZDFaBc28.1/source/yt_live_broadcast/requiressl/yes/tx/24287371/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ77_h6ukArlNKqSiv3Jc9W_ZZf4KnktSYz_ldos1U_lAiEAwlWdzPLLtWWq3NeubZ1CKDZ56BG3B3np_HZNEf2yMJk%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ia804705.us.archive.org/2/items/2_20221020_202210/2.png" group-title="EVENTOS/2", BLEIZERK TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia804705.us.archive.org/2/items/2_20221020_202210/2.png" group-title="EVENTOS""2"", BLEIZERK TV 2
 https://bit.ly/3TmlWVu
 #EXTINF:-1 tvg-id="" tvg-logo="https://ia804705.us.archive.org/2/items/2_20221020_202210/3.png" group-title="EVENTOS", BLEIZERK TV 3(PANDA LIVE)
 
