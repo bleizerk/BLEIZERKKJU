@@ -116,7 +116,12 @@ http://51.81.208.167/pelis2022/Jurassic.World.Dominion.2022.lati.mp4
 http://51.81.208.167/pelis2022/Top.Gun.2.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/ybSIUt48PsM08F4UZwHdjL9ZVG2.jpg" group-title="PELICULA ACCION", Tren Bala (2022)
 http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/17/09/56/2643815.jpg" group-title="PELICULA ACCION", ERASE UNA VEZ EN HOLLYWOOD (2019)
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Once%20Upon%20A%20Time%20In%20Hollywood.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.americatv.com.pe/cinescape/wp-content/uploads/2020/08/jungle_cruise_ver5.jpg" group-title="PELICULA ACCION", JUNGLE CRUISE (2021)
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Jungle%20Cruise:%20Bienvenidos%20a%20Bordo%20(2021).mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.deperu.com/cine/portadas/portada2344.jpg" group-title="PELICULA ACCION", RAMBO LA ULTIMA MISION (2019)
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Rambo%20la%20ultima%20mision.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/22/09/10/13/31/5132052.jpg" group-title="PELICULA COMEDIA", Hocus Pocus 2 (2022)
@@ -127,7 +132,12 @@ http://51.81.208.167/gmovie/Cantinflas/El.bombero.atomico.mkv
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/31/12/59/074144.jpg" group-title="PELICULA CIENCIA FICCION", WARCRAFT (2016)
+http://fina.dyndns.tv/Peliculas/Warcraft.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Ej_rcito_de_los_muertos-932568587-large.jpg" group-title="PELICULA CIENCIA FICCION", EL EJERCITO DE LOS MUERTOS (2021)
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Ej%c3%a9rcito%20de%20los%20muertos.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Zack_Snyder%27s_Justice_League.png/220px-Zack_Snyder%27s_Justice_League.png" group-title="PELICULA CIENCIA FICCION", JUSTICE LEAGUE: ZACK S. (2021)
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/La%20Liga%20de%20la%20Justicia%20de%20Zack%20Snyder.mp4
 
 
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-chno="1253" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20220712T041427.png" group-title="USA",Telemundo Al Día
