@@ -122,6 +122,12 @@ http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Once%20Upon%20A%20Time%20In
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Jungle%20Cruise:%20Bienvenidos%20a%20Bordo%20(2021).mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.deperu.com/cine/portadas/portada2344.jpg" group-title="PELICULA ACCION", RAMBO LA ULTIMA MISION (2019)
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Rambo%20la%20ultima%20mision.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/08/17/10/5366980.jpg" group-title="PELICULA ACCION", EL MEDIADOR (2022)
+http://51.81.208.167/pelis2022/Blacklight.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZiNzE5YTYtMTNlZi00NzE5LWE5Y2UtNzA1YmI4NTE2MTZkXkEyXkFqcGdeQXVyMjA4NTEwOTE@._V1_.jpg" group-title="PELICULA ACCION", El rey del fin del mundo (2021)
+http://54.39.52.63/PELICULA/Edge.of.the.world.2021.1080p-dual-lat-Cinecalidad.ac.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/g9PcWL7xkqX0od1HEr0fgLsjTb0.jpg" group-title="PELICULA ACCION", Conspiracion Explosiva (2021)
+http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/22/09/10/13/31/5132052.jpg" group-title="PELICULA COMEDIA", Hocus Pocus 2 (2022)
@@ -132,12 +138,21 @@ http://51.81.208.167/gmovie/Cantinflas/El.bombero.atomico.mkv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/31/12/59/074144.jpg" group-title="PELICULA CIENCIA FICCION", WARCRAFT (2016)
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/31/12/59/074144.jpg" group-title="PELICULA CIENCIA FICCION", WARCRAFT (ESP 2016)
 http://fina.dyndns.tv/Peliculas/Warcraft.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Ej_rcito_de_los_muertos-932568587-large.jpg" group-title="PELICULA CIENCIA FICCION", EL EJERCITO DE LOS MUERTOS (2021)
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Ej%c3%a9rcito%20de%20los%20muertos.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Zack_Snyder%27s_Justice_League.png/220px-Zack_Snyder%27s_Justice_League.png" group-title="PELICULA CIENCIA FICCION", JUSTICE LEAGUE: ZACK S. (2021)
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/La%20Liga%20de%20la%20Justicia%20de%20Zack%20Snyder.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-3zvFIl_kGQY/YMNpMvzXcKI/AAAAAAAAkG0/s7rVrZrKBboSlOdvvCZyHOw7YfHglJjKACLcBGAsYHQ/s500/91iRHcxCIXS._SS500_.jpg" group-title="PELICULA CIENCIA FICCION", INFINITE (2021)
+http://51.81.208.167/EXTRENO/Infinite.2021.1080p-dual-lat-cinecalidad.mx.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Doctor_Strange_en_el_multiverso_de_la_locura-750542602-large.jpg" group-title="PELICULA CIENCIA FICCION", Dr. Strange en el Multiverso de la Locura (2022)
+http://51.81.208.167/pelis2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://terrigen-cdn-dev.marvel.com/content/prod/1x/bigsalad_genavailposter_pay1_presunrise_v3_lg.jpg" group-title="PELICULA CIENCIA FICCION", THOR: Love and Thunder (2022)
+http://51.81.208.167/pelis2022/Thor.Love.and.Thunder.2022.lati.mp4
+
+
+
 
 
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-chno="1253" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20220712T041427.png" group-title="USA",Telemundo Al Día
