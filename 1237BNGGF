@@ -137,8 +137,13 @@ http://51.81.208.167/pelis2022/Blacklight.2022.lati.mp4
 http://54.39.52.63/PELICULA/Edge.of.the.world.2021.1080p-dual-lat-Cinecalidad.ac.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/g9PcWL7xkqX0od1HEr0fgLsjTb0.jpg" group-title="PELICULA ACCION", Conspiracion Explosiva (2021)
 http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/1/w1280/e0AIfLQyHSNYo2kMpL71KULFQU0.jpg" group-title="PELICULA ACCION", Tiempos de Oscuridad (2021)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/1/w1280/e0AIfLQyHSNYo2kMpL71KULFQU0.jpg" group-title="PELICULA ACCION", Tiempos de Oscuridad (2020)
 https://archive.org/download/tiempos-de-oscuridad-1080p-dual-4.12-gb_202210/Tiempos%20de%20Oscuridad%201080p%20DUAL%204.12%20GB.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d6/Al_filo_de_la_oscuridad.jpg/revision/latest?cb=20100509051608&path-prefix=es" group-title="PELICULA ACCION", Al filo de la Oscuridad (2010)
+https://archive.org/download/al-filo-de-la-oscuridad-1080p-dual-1.76-gb/Al%20Filo%20de%20la%20Oscuridad%201080p%20DUAL%201.76%20GB.mkv
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/22/09/10/13/31/5132052.jpg" group-title="PELICULA COMEDIA", Hocus Pocus 2 (2022)
 http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
