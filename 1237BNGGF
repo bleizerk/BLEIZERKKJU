@@ -267,45 +267,45 @@ https://d1b3ih5h5mvhe9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1, DW SPANISH 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1, Perú Channel
+#EXTINF:-1 group-title="PERU", Perú Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1, ATV+ Perú
+#EXTINF:-1 group-title="PERU" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png", ATV+ Perú
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-#EXTINF:-1, ATV Perú
+#EXTINF:-1 group-title="PERU" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png", ATV Perú
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
-#EXTINF:-1, Global Perú
-http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF: -1, PANAMERICANA TV
+#EXTINF:-1 group-title="PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Global_2019.svg/1200px-Global_2019.svg.png", Global Perú
+http://190.108.83.142:8000/play/a00x/inhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Global_2019.svg/1200px-Global_2019.svg.pngdex.m3u8
+#EXTINF: -1 group-title="PERU" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20221111", PANAMERICANA TV
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 ,24 TV Culturales (Peru)
+#EXTINF:-1 group-title="PERU",24 TV Culturales (Peru)
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1 ,BHTV  (General)
+#EXTINF:-1 group-title="PERU",BHTV  (General)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u
-#EXTINF:-1 ,BHtv  (General)
+#EXTINF:-1 group-title="PERU",BHtv  (General)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
-#EXTINF:-1 ,BHTV (720p)  (General)
+#EXTINF:-1 group-title="PERU",BHTV (720p)  (General)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 ,BHTV HD  (General)
+#EXTINF:-1 group-title="PERU",BHTV HD  (General)
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 ,Canal 26 SD(360p)  (News)
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
 #EXTINF:-1 ,Canal 26 HD (720p)  (News)
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" ,CANAL IPE [Not 24/7]  (Family)
+#EXTINF:-1 tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="PERU",CANAL IPE [Not 24/7]  (Family)
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 ,Central TV (Chosica)  (Local)
+#EXTINF:-1 group-title="PERU",Central TV (Chosica)  (Local)
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 ,Cultura24.tv SD (360p)  (Culture)
+#EXTINF:-1 group-title="PERU",Cultura24.tv SD (360p)  (Culture)
 https://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
-#EXTINF:-1 ,Cultura24.tv HD (720p)  (Culture)
+#EXTINF:-1 group-title="PERU",Cultura24.tv HD (720p)  (Culture)
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 ,Radio San Borja TV [Not 24/7]  (Music)
+#EXTINF:-1 group-title="PERU",Radio San Borja TV [Not 24/7]  (Music)
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 ,TV Perú [Not 24/7]  (General)
+#EXTINF:-1 group-title="PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" ,TV Perú [Not 24/7]  (General)
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 ,TV Perú Noticias [Not 24/7]  (News)
+#EXTINF:-1 group-title="PERU",TV Perú Noticias [Not 24/7]  (News)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 ,TV Perú Noticias [Not 24/7]  (News)
+#EXTINF:-1 group-title="PERU",TV Perú Noticias [Not 24/7]  (News)
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1, CNC DIGITAL
@@ -313,7 +313,7 @@ https://cloudvideo.servers10.com:8081/8150/index.m3u8
 #EXTINF:-1, ATV COLOMBIA
 https://movil.ejeserver.com/live/verteve.m3u8
 
-#EXTINF:-1 tvg-logo="", Exitosa Tv
+#EXTINF:-1 tvg-logo="" group-title="PERU", Exitosa Tv
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-logo="", Planeta Tv
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -333,12 +333,18 @@ https://live.obslivestream.com/telecolormux/tracks-v3a1/mono.m3u8
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvwE7aaBSHFIjT-BSXJIPi3YT_advmKn5bXx3u6XSm8o4UtX5EsOCCDtTc3guytLgiDdVTv1b268wX9P2kPJV3VoGNutoHashgRsDN793DiuMUgHUCXTSf1MX8OJkXjHuPyapJGLJB_UeVFd8SPz9iqb29fZi3E39I980JAbmfL6fBbVYAy6XOb_mpsL0sNEoeTyHjmb6bDEHFD5UtAw2RN7lfOUl0UUqUxgyDhOtVo3rThOVh8wyPGsP3Apw90G5-sEvqrHY3KBdlP3_OjwETnrPg5AeixkckhRHIlpWnDB0situMOI0-7cEmXmpQ52QAGZBEC7BMcN18AbqzeL1_ktWZ4Hm4fdqI17ssDt2z4BTp7WLYjK3f90nlRFCmwTuo73GmEihRapLRvlGw8BuScgdh9kmMiFfgdqIrDAH9kNYJwRxtdC5bkxQ3wr8cQ4Y5uYfk7-Jycd_iuCiFFY-R8LzhZwjEPHdGBiixStUo9rHPXm6tbeQMEknYsiYGHzgykMGzPKrkd1LyDHqA8xsWKXn5BHFnlzntbrFLQzGqceN8EH2smvyf4oe5KC-0TP3iQsc1FxKBOh-2btFgR-j39mZ5zgxQGi_4bKxgb2YpXY6nl_6ledmLwzq37aWEWTxbyuaMXvx2FnKbFQOkbLCoWm5watik2fqmpdYcae7bgkcgH6yeHAEmo22qjMjupp3_ZWkRZmMbd79EkDfTqRKkfFUvvERviwbY942Dt4gWNOIzpkHh3a6ONKqOsRT_cIcz957e1QsDftbeNQFXDsiAMM4IC15U41P1gptBupjS6A8Q6amCUpM3fzEaN426ZDDgz2dgg3G7ALEBykguQcGgwhMm-pJmU1bbO4qDIgASoJdXMtZWFzdC0xMMYD.m3u8
 #EXTINF:-1  group-title="LATINO", Emocion TV
 https://v1.tustreaming.cl:19360/emociontv/emociontv.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="LATINO",MEGA TV AREQUIPA
+#EXTINF:-1  tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" group-title="PERU",MEGA TV AREQUIPA
 https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1  tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="LATINO", Vision Sur TV
+#EXTINF:-1  tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="PERU", Vision Sur TV
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Visionsur/chunks.m3u8?nimblesessionid=777419
-#EXTINF:-1  tvg-logo="https://serenotv.com/wp-content/uploads/2021/10/Canal-cine-club-en-vivo.jpg" group-title="LATINO", TecSatel Cine TV
+#EXTINF:-1  tvg-logo="https://serenotv.com/wp-content/uploads/2021/10/Canal-cine-club-en-vivo.jpg" group-title="PERU", TecSatel Cine TV
 https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1  tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="PERU", Autentica TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png" group-title="PERU", CR TV
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" group-title="PERU", OK TV
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Viajes
