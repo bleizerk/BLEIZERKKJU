@@ -274,9 +274,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png", ATV Perú
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Global_2019.svg/1200px-Global_2019.svg.png", Global Perú
-http://190.108.83.142:8000/play/a00x/inhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Global_2019.svg/1200px-Global_2019.svg.pngdex.m3u8
+http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF: -1 group-title="PERU" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20221111", PANAMERICANA TV
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="PERU",24 TV Culturales (Peru)
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
 #EXTINF:-1 group-title="PERU",BHTV  (General)
