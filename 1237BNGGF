@@ -345,6 +345,11 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" group-title="PERU", OK TV
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="PERU", Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg" group-title="PERU", Contacto TV
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Viajes
