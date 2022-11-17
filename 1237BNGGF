@@ -630,22 +630,26 @@ https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?Playlist
 
 #EXTINF: -1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="ANIMACION", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="ANIMACION", Cartoon NetWork
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="ANIMACION" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png", DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1067175487.m3u8
-#EXTINF:-1 group-title="ANIMACION", RetroMágico TV
+#EXTINF:-1 group-title="ANIMACION" tvg-logo="https://i.imgur.com/B7odp7O.png", RetroMágico TV
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9MSMZnD.jpg" group-title="JOVENES Y ADULTOS",Teleanimacion
+https://ia802506.us.archive.org/35/items/promo_20220411/Promo.ia.mp4?cnt=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="ANIMACION", Anime Zone
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="ANIMACION", Latino Kids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75" group-title="ANIMACION", EnerGeek
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75" group-title="ANIMACION", EnerGeek 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fi6FAv9_jS02mpHm9Ym8nE3FmirBO2n0EqlyXkSGFNIM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0b3VRa0FvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc3YksxNndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzI0MTcxMDAwMA.webp&w=1920&q=75" group-title="ANIMACION", EnerGeek 3
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="ANIMACION", EnerGeek Retro
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="ANIMACION", EnerGeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ls5K3WG.png" group-title="ANIMACION", EnerGeek Animate
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 group-title="ANIMACION", PlanetaTV Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="ANIMACION",PlanetaTV Kids
