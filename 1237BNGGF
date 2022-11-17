@@ -624,19 +624,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e914
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Npcvc5R/simpsons.jpg" group-title="ANIMACION", Simpson Tv
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMACION", CSTV
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: -1 tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="ANIMACION", LOCOMOTION
+#EXTINF: -1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="ANIMACION", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="ANIMACION", Cartoon NetWork
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="ANIMACION", DREIKO TV
+#EXTINF:-1 group-title="ANIMACION" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png", DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1067175487.m3u8
 #EXTINF:-1 group-title="ANIMACION", RetroMágico TV
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 tvg-logo="http://azxtv.com/aztv.png" group-title="ANIMACION", Anime Zone
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="ANIMACION", Anime Zone
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="ANIMACION", Latino Kids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
@@ -793,3 +793,6 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="COCINA",Pluto TV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
+https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
