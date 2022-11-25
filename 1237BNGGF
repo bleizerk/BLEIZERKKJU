@@ -116,7 +116,10 @@ http://fina.dyndns.tv/Peliculas/Vacas%20Vaqueras.mkv
 http://fina.dyndns.tv/Peliculas/Moana.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/batman_and_superman_battle_of_the_super_sons-786314036-large.jpg" group-title="PELICULA ANIMADA", Batman y Superman: La Batalla de los Super hijos (2022)
 http://mundotvclub.xyz/PELICULAS%20POR%20MES/OCTUBRE/14octubre/2907.Batman.and.Superman.Battle.of.the.Super.Sons.2022.1080p.BluRay.Dual.Latino.mkv
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.filmaboutit.com/data/shp/images/AiaVAIc9KsYsNkAFNGiHtmmoZ2d.jpg" group-title="PELICULA ANIMADA", Bee Movie (2007)
+http://mundotvclub.xyz/PELICULAS%20POR%20MES/NOVIEMBRE/18NOV/18325.Bee.Movie.2007.1080p.BluRay.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.glamour.mx/photos/62195732d57406ea5bcfa091/master/w_2450,h_3500,c_limit/Red.jpeg" group-title="PELICULA ANIMADA", RED (2022)
+http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Red%20(2022).mkv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/7nOL8FuiWdSuQo6uGJaKFfFBTZ9.jpg" group-title="PELICULA ACCION", Operación Overlord (2022)
 https://archive.org/download/operacion-overlord-1080p-lat-1.65-gb/Operacion%20Overlord%201080p%20LAT%201.65%20GB.mkv
@@ -150,8 +153,10 @@ http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
 https://archive.org/download/tiempos-de-oscuridad-1080p-dual-4.12-gb_202210/Tiempos%20de%20Oscuridad%201080p%20DUAL%204.12%20GB.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d6/Al_filo_de_la_oscuridad.jpg/revision/latest?cb=20100509051608&path-prefix=es" group-title="PELICULA ACCION", Al filo de la Oscuridad (2010)
 https://archive.org/download/al-filo-de-la-oscuridad-1080p-dual-1.76-gb/Al%20Filo%20de%20la%20Oscuridad%201080p%20DUAL%201.76%20GB.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/22/07/26/15/50/3927340.jpg" group-title="PELICULA ACCION", La mujer Rey (2022)
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/22/07/26/15/50/3927340.jpg" group-title="PELICULA ACCION", La mujer Rey (2022)(EN)
 http://mundotvclub.xyz/PELICULAS%20POR%20MES/NOVIEMBRE/23NOV/8371.The.Woman.King.2022.1080p.WEBRip.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Rush_UK_poster.jpeg" group-title="PELICULA ACCION", Rush (2013)(EN)
+http://mundotvclub.xyz/PELICULAS%20POR%20MES/NOVIEMBRE/2nov/10892.Rush.2013.1080p.WEBRip.Dual.Latino.mkv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/05/08/03/42/2134863.jpg" group-title="PELICULA DRAMA", El niño que domo el viento (2019)
 http://pilarika.no-ip.org/Cine/Cine_10/021_-_El_ni%c3%b1o_que_dom%c3%b3_el_viento.mp4
