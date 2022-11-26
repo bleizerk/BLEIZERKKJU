@@ -20,7 +20,8 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqkFEWFsRzvqiGbloKbngNoWpg4
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="QATAR 2022", TVE la 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="QATAR 2022", Teleamazonas
+https://youvideostreaming.club/hls/ecutv4.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="EVENTOS", NATIVA TV
