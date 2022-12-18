@@ -1,18 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", Capítulo 1. Un Glorioso Propósito
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", LOKI T01-E01
 http://51.81.208.167/serie/Loki/Loki.1%c3%9701.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", Capítulo 2. La Variante
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", LOKI T01-E02
 http://51.81.208.167/serie/Loki/Loki.1%c3%9702.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", Capítulo 3. Lamentis
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", LOKI T01-E03
 http://51.81.208.167/serie/Loki/Loki.1%c3%9703.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", Capítulo 4. El Evento Nexus
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", LOKI T01-E04
 http://51.81.208.167/serie/Loki/Loki.1%c3%9704.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", Capítulo 5. Un viaje Hacia el Misterio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", LOKI T01-E05
 http://51.81.208.167/serie/Loki/Loki.1%c3%9705.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", Capítulo 6. Eternamente
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="LOKI", LOKI T01-E06
 http://51.81.208.167/serie/Loki/Loki.1%c3%9706.lati.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Arcane_League_of_Legends_Serie_de_TV-624235408-large.jpg" group-title="ARCANE", Capítulo 1 ¡Bienvenidos!
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E01
 http://51.81.208.167/series2022/Arcane/Arcane.101.lati.mp4
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E02
+http://51.81.208.167/series2022/Arcane/Arcane.102.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E03
+http://51.81.208.167/series2022/Arcane/Arcane.103.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E04
+http://51.81.208.167/series2022/Arcane/Arcane.104.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E05
+http://51.81.208.167/series2022/Arcane/Arcane.105.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E06
+http://51.81.208.167/series2022/Arcane/Arcane.106.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E07
+http://51.81.208.167/series2022/Arcane/Arcane.107.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E08
+http://51.81.208.167/series2022/Arcane/Arcane.108.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="ARCANE", ARCANE T01-E09
+http://51.81.208.167/series2022/Arcane/Arcane.109.lati.mp4
