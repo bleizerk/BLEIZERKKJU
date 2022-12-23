@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="prueba", proto
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="prueba", bor
 http://144.217.180.205/Zeus/SERIES/Boruto%20Next%20generation/S1
 
 
