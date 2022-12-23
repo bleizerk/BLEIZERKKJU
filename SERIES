@@ -2,11 +2,15 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="PRUEBA", LPRUEBA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="PRUEBA", $Fast and Furius 9
 #multiparser
-Opción 1,http://51.81.208.167/serie/Loki/Loki.1%c3%9701.lati.mp4
-Opción 2,http://51.81.208.167/serie/Loki/Loki.1%c3%9702.lati.mp4
-Opción 3,http://51.81.208.167/serie/Loki/Loki.1%c3%9702.lati.mp4
+serie:http://144.217.180.205/Zeus/SERIES/Boruto%20Next%20generation/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="PRUEBA", $Fast and Furius 
+#multiparser
+Opción 1,serie:http://144.217.180.205/Zeus/MOVIES/Fast%20and%20Furious%209%20(2021)%20TS+SUB.mp4
+Opción 2,serie:http://51.81.208.167/serie/Loki/Loki.1%c3%9702.lati.mp4
+Opción 3,serie:http://51.81.208.167/serie/Loki/Loki.1%c3%9702.lati.mp4
 #multiparser
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.clarin.com/img/2021/04/05/el-afiche-de-loki-con___n0zI0_5PB_720x0__1.jpg" group-title="PRUEBA2", LPRUEBA2
