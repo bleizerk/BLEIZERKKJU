@@ -1,1 +1,4 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Npcvc5R/simpsons.jpg" group-title="ANIMACION", Simpson Tv
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
